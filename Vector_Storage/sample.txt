@@ -1,0 +1,12 @@
+1. Artificial Intelligence (AI)
+The Concept: The broadest umbrella term for any technique that enables computers to mimic human intelligence.
+The Approach: It doesn't always require "learning." Early AI used "Expert Systems" or "If-Then" logic—hard-coded rules written by humans to help a machine make decisions (e.g., a chess program that follows a specific set of programmed moves).
+The Goal: To create a system that can execute tasks that would normally require a human brain, such as reasoning, planning, or understanding language.
+2. Machine Learning (ML)
+The Concept: A subset of AI defined by the ability to learn from data rather than following rigid instructions.
+The Approach: Instead of a human writing code for every possibility, we provide the machine with examples (data). The machine uses algorithms (like Linear Regression, Decision Trees, or Random Forests) to find patterns. For instance, to identify a "spam" email, the algorithm looks at thousands of emails and notices that the word "Lottery" frequently appears in spam.
+Key Constraint: ML often requires Feature Engineering. A human expert must tell the machine which "features" to look for (e.g., "Look at the sender's address and the frequency of dollar signs").
+3. Deep Learning (DL)
+The Concept: A specialized subset of ML that uses Artificial Neural Networks with many layers (hence the "Deep") to solve highly complex problems.
+The Approach: It mimics the structure of the human brain. Unlike standard ML, Deep Learning does Automatic Feature Extraction. You don't tell the machine what to look for; you give it 10,000 photos of cats, and the layers of the neural network automatically figure out that "pointy ears" and "whiskers" are the defining features.
+The Requirements: DL is data-hungry and power-hungry. It requires Big Data (millions of data points) and high-performance hardware like GPUs to function effectively.
